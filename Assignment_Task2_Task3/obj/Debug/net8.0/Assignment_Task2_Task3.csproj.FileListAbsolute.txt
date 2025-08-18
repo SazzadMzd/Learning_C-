@@ -1,0 +1,14 @@
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\bin\Debug\net8.0\Assignment_Task2_Task3.exe
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\bin\Debug\net8.0\Assignment_Task2_Task3.deps.json
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\bin\Debug\net8.0\Assignment_Task2_Task3.runtimeconfig.json
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\bin\Debug\net8.0\Assignment_Task2_Task3.dll
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\bin\Debug\net8.0\Assignment_Task2_Task3.pdb
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\obj\Debug\net8.0\Assignment_Task2_Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\obj\Debug\net8.0\Assignment_Task2_Task3.AssemblyInfoInputs.cache
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\obj\Debug\net8.0\Assignment_Task2_Task3.AssemblyInfo.cs
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\obj\Debug\net8.0\Assignment_Task2_Task3.csproj.CoreCompileInputs.cache
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\obj\Debug\net8.0\Assignment_Task2_Task3.dll
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\obj\Debug\net8.0\refint\Assignment_Task2_Task3.dll
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\obj\Debug\net8.0\Assignment_Task2_Task3.pdb
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\obj\Debug\net8.0\Assignment_Task2_Task3.genruntimeconfig.cache
+D:\Study\My Learning Space\C#\Assignment_Task2_Task3\obj\Debug\net8.0\ref\Assignment_Task2_Task3.dll
