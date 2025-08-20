@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Study\\My Learning Space\\C#\\class01\\class01.csproj": {}
+    "D:\\Study\\My Learning Space\\C#\\Learning_C#\\class01\\class01.csproj": {}
   },
   "projects": {
-    "D:\\Study\\My Learning Space\\C#\\class01\\class01.csproj": {
+    "D:\\Study\\My Learning Space\\C#\\Learning_C#\\class01\\class01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Study\\My Learning Space\\C#\\class01\\class01.csproj",
+        "projectUniqueName": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\class01\\class01.csproj",
         "projectName": "class01",
-        "projectPath": "D:\\Study\\My Learning Space\\C#\\class01\\class01.csproj",
+        "projectPath": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\class01\\class01.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Study\\My Learning Space\\C#\\class01\\obj\\",
+        "outputPath": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\class01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,4 +1,7 @@
-﻿namespace Assignment_Task2_Task3
+﻿using System;
+using System.Buffers.Text;
+
+namespace Assignment_Task2_Task3
 {
     internal class Program
     {
@@ -17,7 +20,7 @@
             Console.Write("numbers = ");
             for (int i = 0; i < numbers.Length; i++)
             {
-                Console.Write(numbers[i] +", ");
+                Console.Write(numbers[i] + ", ");
             }
             Console.WriteLine(" ");
 
@@ -54,26 +57,19 @@
 
             Console.WriteLine("Largest Number in Array: " + largest);
 
-            //Find the smallest number using ‘Switch’ statement
-
+            // Find the smallest number using switch statement(index - based)
             int smallest = numArray[0];
-            switch (smallest > numArray[1])
-            {   
-                case true:
-                    smallest = numArray[1];
-                    break;
-
-                default:
-                    break;
-            }
-            switch (smallest > numArray[2])
+            for (int j = 1; i < numArray.Length; i++)
             {
-                case true:
-                    smallest = numArray[2];
-                    break;
-
-                default:
-                    break;
+                switch (j)
+                {
+                    case 1:
+                        if (numArray[1] < smallest) smallest = numArray[1];
+                        break;
+                    case 2:
+                        if (numArray[2] < smallest) smallest = numArray[2];
+                        break;
+                }
             }
 
             Console.WriteLine("Smallest Number in Array: " + smallest);

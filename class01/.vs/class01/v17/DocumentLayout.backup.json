@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Study\\My Learning Space\\C#\\class01\\",
+  "WorkspaceRootPath": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\class01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0483A639-8FCF-4767-B2D3-2F9A8C76FBAC}|class01.csproj|d:\\study\\my learning space\\c#\\class01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0483A639-8FCF-4767-B2D3-2F9A8C76FBAC}|class01.csproj|d:\\study\\my learning space\\c#\\learning_c#\\class01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0483A639-8FCF-4767-B2D3-2F9A8C76FBAC}|class01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Study\\My Learning Space\\C#\\class01\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\class01\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Study\\My Learning Space\\C#\\class01\\Program.cs",
+              "ToolTip": "D:\\Study\\My Learning Space\\C#\\Learning_C#\\class01\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAwE8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T15:43:46.359Z",
               "EditorCaption": ""

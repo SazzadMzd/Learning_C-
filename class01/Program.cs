@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Security.Cryptography.X509Certificates;
 
 namespace class01
 {
@@ -40,8 +41,8 @@ namespace class01
             int[] numbers = new int[5];
             for (int i = 0; i < numbers.Length; i++)
             {
-                //Console.Write("Enter number " + (i + 1) + ": ");
-                //numbers[i] = int.Parse(Console.ReadLine());
+                Console.Write("Enter number " + (i + 1) + ": ");
+                numbers[i] = int.Parse(Console.ReadLine());
             }
 
             //Declare an integer array of size 3.Insert 3 random numbers.
@@ -86,8 +87,6 @@ namespace class01
             }
 
             Console.WriteLine("Smallest Number in numbersArray: " + smallest);
-
-
 
 
         }
