@@ -1,0 +1,14 @@
+D:\Study\My Learning Space\C#\Module01\bin\Debug\net8.0\Module01.exe
+D:\Study\My Learning Space\C#\Module01\bin\Debug\net8.0\Module01.deps.json
+D:\Study\My Learning Space\C#\Module01\bin\Debug\net8.0\Module01.runtimeconfig.json
+D:\Study\My Learning Space\C#\Module01\bin\Debug\net8.0\Module01.dll
+D:\Study\My Learning Space\C#\Module01\bin\Debug\net8.0\Module01.pdb
+D:\Study\My Learning Space\C#\Module01\obj\Debug\net8.0\Module01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\My Learning Space\C#\Module01\obj\Debug\net8.0\Module01.AssemblyInfoInputs.cache
+D:\Study\My Learning Space\C#\Module01\obj\Debug\net8.0\Module01.AssemblyInfo.cs
+D:\Study\My Learning Space\C#\Module01\obj\Debug\net8.0\Module01.csproj.CoreCompileInputs.cache
+D:\Study\My Learning Space\C#\Module01\obj\Debug\net8.0\Module01.dll
+D:\Study\My Learning Space\C#\Module01\obj\Debug\net8.0\refint\Module01.dll
+D:\Study\My Learning Space\C#\Module01\obj\Debug\net8.0\Module01.pdb
+D:\Study\My Learning Space\C#\Module01\obj\Debug\net8.0\Module01.genruntimeconfig.cache
+D:\Study\My Learning Space\C#\Module01\obj\Debug\net8.0\ref\Module01.dll
